@@ -1,5 +1,5 @@
-import PrintArticles from "@/components/PrintArticles";
 import { StatusBar, StyleSheet, Text, View, ScrollView, Dimensions } from "react-native";
+import PrintArticles from "@/components/PrintArticles";
 
 export default function HomeScreen() {
   return(
